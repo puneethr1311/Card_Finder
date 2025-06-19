@@ -12,17 +12,14 @@ Card Finder is a modern web application designed to help users discover and comp
 ## 🖼️ Screenshots
 
 ### 🔹 Home Page
-<img src="/home_page.png" alt="Home Page" width="800"/>
+![Home Page](https://raw.githubusercontent.com/your-username/your-repo/main/public/home_page.png)
 
----
-
-### 🔹 Chat Page (AI Recommendation)
-<img src="/chat_page.png" alt="Chat Page" width="800"/>
-
----
+### 🔹 Chat Page
+![Chat Page](https://raw.githubusercontent.com/your-username/your-repo/main/public/chat_page.png)
 
 ### 🔹 Cards Listing Page
-<img src="/cards_page.png" alt="Cards Page" width="800"/>
+![Cards Page](https://raw.githubusercontent.com/your-username/your-repo/main/public/cards_page.png)
+
 ## ✨ Features
 
 ### 📊 **All Cards Comparison**
