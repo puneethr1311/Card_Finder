@@ -1,0 +1,421 @@
+{
+  "credit_cards": [
+    {
+      "name": "Cashback SBI Credit Card",
+      "issuer": "State Bank of India",
+      "joining_fee": "₹999 + GST",
+      "annual_fee": "₹999 + GST",
+      "reward_type": "Cashback",
+      "reward_rate": "5% on online spends, 1% on offline spends (max ₹5,000/month)",
+      "eligibility_criteria": {
+        "minimum_income": "₹3,00,000 per annum",
+        "age": "21-65 years",
+        "employment": "Salaried/Self-employed"
+      },
+      "special_perks": [
+        "Maximum cashback ₹5,000 per statement cycle",
+        "1% fuel surcharge waiver (₹500-₹3,000 transactions)",
+        "Annual fee waiver on spending ₹2,00,000"
+      ],
+      "best_suited_for": ["Shopping", "Food"],
+      "apply_link": "https://www.sbicard.com/en/eapply.page"
+    },
+    {
+      "name": "Swiggy HDFC Bank Credit Card",
+      "issuer": "HDFC Bank",
+      "joining_fee": "₹500 + GST",
+      "annual_fee": "₹500 + GST",
+      "reward_type": "Cashback",
+      "reward_rate": "10% on Swiggy app, 5% on online spends, 1% on other categories",
+      "eligibility_criteria": {
+        "minimum_income": "₹2,50,000 per annum",
+        "age": "21-60 years",
+        "employment": "Salaried/Self-employed"
+      },
+      "special_perks": [
+        "Complimentary 3-month Swiggy One membership",
+        "12 free golf lessons & 4 free rounds",
+        "Up to 5% cashback on Uber/Ola"
+      ],
+      "best_suited_for": ["Dining", "Food"],
+      "apply_link": "https://applyonline.hdfcbank.com/cards/credit-cards.html?CHANNELSOURCE=SWCC"
+    },
+    {
+      "name": "HDFC Bank Millennia Credit Card",
+      "issuer": "HDFC Bank",
+      "joining_fee": "₹1,000 + GST",
+      "annual_fee": "₹1,000 + GST",
+      "reward_type": "Cashback (CashPoints)",
+      "reward_rate": "5% cashback (up to 1,000 CashPoints) at top online merchants, 1% on other spends",
+      "eligibility_criteria": {
+        "minimum_income": "₹3,00,000 per annum",
+        "age": "21-60 years",
+        "employment": "Salaried/Self-employed"
+      },
+      "special_perks": [
+        "1,000 CashPoints welcome bonus",
+        "Flat ₹200 discount on Swiggy Dineout (twice/month)",
+        "1 CashPoint = ₹1 for statement credit"
+      ],
+      "best_suited_for": ["Shopping"],
+      "apply_link": "https://www.hdfcbank.com/personal/pay/cards/credit-cards"
+    },
+    {
+      "name": "Amazon Pay ICICI Bank Credit Card",
+      "issuer": "ICICI Bank",
+      "joining_fee": "Lifetime Free",
+      "annual_fee": "Lifetime Free",
+      "reward_type": "Cashback",
+      "reward_rate": "5% on Amazon (Prime), 3% on Amazon (Non-Prime), 2% on partner brands, 1% on others",
+      "eligibility_criteria": {
+        "minimum_income": "₹3,00,000 per annum",
+        "age": "21-60 years",
+        "employment": "Salaried/Self-employed"
+      },
+      "special_perks": [
+        "Welcome benefits up to ₹2,500",
+        "One month EazyDiner membership",
+        "15% discount on dining at partner restaurants",
+        "Cashback credited to Amazon Pay balance"
+      ],
+      "best_suited_for": ["Shopping"],
+      "apply_link": "https://www.amazon.in/cbcc/marketpage"
+    },
+    {
+      "name": "Flipkart Axis Bank Credit Card",
+      "issuer": "Axis Bank",
+      "joining_fee": "₹500 + GST",
+      "annual_fee": "₹500 + GST",
+      "reward_type": "Cashback",
+      "reward_rate": "5% on Flipkart & Cleartrip, 4% on preferred partners (Swiggy, Uber, PVR), 1% on others",
+      "eligibility_criteria": {
+        "minimum_income": "₹3,00,000 per annum",
+        "age": "21-60 years",
+        "employment": "Salaried/Self-employed"
+      },
+      "special_perks": [
+        "Introductory benefits worth ₹600",
+        "15% discount at partner restaurants (up to ₹500)",
+        "4% cashback on Uber rides"
+      ],
+      "best_suited_for": ["Shopping"],
+      "apply_link": "https://www.axisbank.com/retail/cards/credit-card"
+    },
+    {
+      "name": "American Express Membership Rewards Credit Card",
+      "issuer": "American Express",
+      "joining_fee": "₹1,000 + GST",
+      "annual_fee": "₹4,500 + GST",
+      "reward_type": "Reward Points",
+      "reward_rate": "1 Membership Reward Point per ₹50 spent",
+      "eligibility_criteria": {
+        "minimum_income": "₹6,00,000 per annum",
+        "age": "21-60 years",
+        "employment": "Salaried/Self-employed"
+      },
+      "special_perks": [
+        "4,000 bonus points on spending ₹15,000 in first 90 days",
+        "Special dining discounts up to 20%",
+        "18 & 24 Karat Gold Collection redemption"
+      ],
+      "best_suited_for": ["Shopping"],
+      "apply_link": "https://www.americanexpress.com/in/credit-cards/"
+    },
+    {
+      "name": "IDFC First Bank Ashva Metal Credit Card",
+      "issuer": "IDFC First Bank",
+      "joining_fee": "₹2,999 + GST",
+      "annual_fee": "₹2,999 + GST",
+      "reward_type": "Reward Points",
+      "reward_rate": "10X points on spends above ₹20,000, 5X points up to ₹20,000, 3X on rent/wallet/education",
+      "eligibility_criteria": {
+        "minimum_income": "₹8,00,000 per annum",
+        "age": "21-65 years",
+        "employment": "Salaried/Self-employed"
+      },
+      "special_perks": [
+        "₹2,000 cashback on first four transactions",
+        "4 domestic & 2 international lounge access per quarter",
+        "BOGO movie tickets up to ₹400 (twice/month)",
+        "2 free golf rounds on ₹20,000 spend",
+        "Comprehensive insurance coverage"
+      ],
+      "best_suited_for": ["Travel", "Shopping"],
+      "apply_link": "https://www.idfcfirstbank.com/personal-banking/cards/credit-card"
+    },
+    {
+      "name": "Tata Neu Infinity HDFC Bank Credit Card",
+      "issuer": "HDFC Bank",
+      "joining_fee": "₹1,499 + GST",
+      "annual_fee": "₹1,499 + GST",
+      "reward_type": "NeuCoins",
+      "reward_rate": "Up to 10% NeuCoins on TataNeu, 5% on Tata brands, 1.5% on UPI spends",
+      "eligibility_criteria": {
+        "minimum_income": "₹5,00,000 per annum",
+        "age": "21-60 years",
+        "employment": "Salaried/Self-employed"
+      },
+      "special_perks": [
+        "1,499 NeuCoins welcome bonus",
+        "8 domestic & 4 international lounge access per year",
+        "Priority Pass (Visa variant only)",
+        "₹1 crore air accident insurance"
+      ],
+      "best_suited_for": ["Travel", "Shopping"],
+      "apply_link": "https://www.hdfcbank.com/personal/pay/cards/credit-cards"
+    },
+    {
+      "name": "Airtel Axis Bank Credit Card",
+      "issuer": "Axis Bank",
+      "joining_fee": "₹500 + GST",
+      "annual_fee": "₹500 + GST",
+      "reward_type": "Cashback",
+      "reward_rate": "25% on Airtel services, 10% on utility bills & food delivery, 1% on others",
+      "eligibility_criteria": {
+        "minimum_income": "₹3,00,000 per annum",
+        "age": "21-60 years",
+        "employment": "Salaried/Self-employed"
+      },
+      "special_perks": [
+        "Amazon voucher worth ₹500",
+        "One free domestic lounge access per quarter (on ₹50,000 spend)",
+        "Direct cashback against statement"
+      ],
+      "best_suited_for": ["Travel", "Food", "Utility Bill Payment"],
+      "apply_link": "https://www.axisbank.com/retail/cards/credit-card"
+    },
+    {
+      "name": "Axis Bank Neo Credit Card",
+      "issuer": "Axis Bank",
+      "joining_fee": "Nil",
+      "annual_fee": "Nil",
+      "reward_type": "Reward Points",
+      "reward_rate": "1 EDGE REWARD Point per ₹200 spent (0.10% reward rate)",
+      "eligibility_criteria": {
+        "minimum_income": "₹2,50,000 per annum",
+        "age": "21-60 years",
+        "employment": "Salaried/Self-employed"
+      },
+      "special_perks": [
+        "100% cashback up to ₹300 on first utility bill payment",
+        "10% off on BookMyShow",
+        "40% off on Zomato food delivery"
+      ],
+      "best_suited_for": ["Shopping", "Food"],
+      "apply_link": "https://www.axisbank.com/retail/cards/credit-card"
+    },
+    {
+      "name": "AU Bank LIT Credit Card",
+      "issuer": "AU Small Finance Bank",
+      "joining_fee": "Nil",
+      "annual_fee": "Nil",
+      "reward_type": "Reward Points",
+      "reward_rate": "1 Reward Point per ₹100 spent, 10X/5X accelerated points (paid features)",
+      "eligibility_criteria": {
+        "minimum_income": "₹2,00,000 per annum",
+        "age": "21-65 years",
+        "employment": "Salaried/Self-employed"
+      },
+      "special_perks": [
+        "3 months Zee5 & Amazon Prime membership",
+        "1 complimentary lounge access per quarter (paid feature)",
+        "10X/5X accelerated rewards (paid features)"
+      ],
+      "best_suited_for": ["Movies", "Travel", "Dining", "Fuel", "Shopping"],
+      "apply_link": "https://www.aubank.in/credit-card"
+    },
+    {
+      "name": "IndusInd Legend Credit Card",
+      "issuer": "IndusInd Bank",
+      "joining_fee": "Nil",
+      "annual_fee": "Nil",
+      "reward_type": "Reward Points",
+      "reward_rate": "1 point per ₹100 on weekdays, 2 points per ₹100 on weekends",
+      "eligibility_criteria": {
+        "minimum_income": "₹3,00,000 per annum",
+        "age": "21-65 years",
+        "employment": "Salaried/Self-employed"
+      },
+      "special_perks": [
+        "BOGO movie tickets up to ₹200 monthly",
+        "₹25 lakh air accident cover",
+        "₹1 lakh lost baggage insurance",
+        "1 RP = ₹0.50 for cash credit"
+      ],
+      "best_suited_for": ["Shopping"],
+      "apply_link": "https://www.indusind.com/in/en/personal/cards/credit-cards.html"
+    },
+    {
+      "name": "Axis Bank Atlas Credit Card",
+      "issuer": "Axis Bank",
+      "joining_fee": "₹5,000 + GST",
+      "annual_fee": "₹5,000 + GST",
+      "reward_type": "Reward Points (Edge Miles)",
+      "reward_rate": "5 Edge Miles per ₹100 on travel, 2 Edge Miles per ₹100 on other transactions",
+      "eligibility_criteria": {
+        "minimum_income": "₹15,00,000 per annum",
+        "age": "21-60 years",
+        "employment": "Salaried/Self-employed"
+      },
+      "special_perks": [
+        "2,500 Edge Miles welcome bonus",
+        "Up to 25% discount at partner restaurants",
+        "8-18 domestic lounge access per year (tier-based)",
+        "4-12 international lounge access per year",
+        "Miles transferable to airline/hotel partners"
+      ],
+      "best_suited_for": ["Travel"],
+      "apply_link": "https://www.axisbank.com/retail/cards/credit-card"
+    },
+    {
+      "name": "IDFC FIRST Select Credit Card",
+      "issuer": "IDFC First Bank",
+      "joining_fee": "Nil",
+      "annual_fee": "Nil",
+      "reward_type": "Reward Points",
+      "reward_rate": "3 points per ₹150 up to ₹20,000, 10 points per ₹150 above ₹20,000",
+      "eligibility_criteria": {
+        "minimum_income": "₹4,00,000 per annum",
+        "age": "21-65 years",
+        "employment": "Salaried/Self-employed"
+      },
+      "special_perks": [
+        "₹500 vouchers on ₹5,000 spend in first 30 days",
+        "BOGO movie tickets up to ₹125",
+        "4 railway & 2 domestic lounge access per quarter",
+        "₹1 crore air accident cover",
+        "1 RP = ₹0.25"
+      ],
+      "best_suited_for": ["Travel", "Shopping"],
+      "apply_link": "https://www.idfcfirstbank.com/personal-banking/cards/credit-card"
+    },
+    {
+      "name": "BPCL SBI Octane Credit Card",
+      "issuer": "State Bank of India",
+      "joining_fee": "₹1,499 + GST",
+      "annual_fee": "₹1,499 + GST",
+      "reward_type": "Reward Points",
+      "reward_rate": "25 points per ₹100 at BPCL (7.25%), 10 points per ₹100 on dining/movies/groceries, 1 point per ₹100 on others",
+      "eligibility_criteria": {
+        "minimum_income": "₹4,00,000 per annum",
+        "age": "21-65 years",
+        "employment": "Salaried/Self-employed"
+      },
+      "special_perks": [
+        "6,000 bonus reward points (₹1,500 value)",
+        "4 complimentary domestic lounge access per year",
+        "Redeem points for fuel at BPCL stations",
+        "₹1 lakh fraud liability cover"
+      ],
+      "best_suited_for": ["Travel", "Fuel", "Food"],
+      "apply_link": "https://www.sbicard.com/en/eapply.page"
+    },
+    {
+      "name": "American Express Platinum Travel Credit Card",
+      "issuer": "American Express",
+      "joining_fee": "₹5,000 + GST",
+      "annual_fee": "₹5,000 + GST",
+      "reward_type": "Reward Points",
+      "reward_rate": "1 Membership Rewards Point per ₹50 spent",
+      "eligibility_criteria": {
+        "minimum_income": "₹6,00,000 per annum",
+        "age": "21-60 years",
+        "employment": "Salaried/Self-employed"
+      },
+      "special_perks": [
+        "10,000 Membership Rewards Points welcome bonus",
+        "20% discount at select restaurants",
+        "Free Priority Pass membership (USD 99 value)",
+        "2 domestic lounge access per quarter",
+        "International lounge access with Priority Pass"
+      ],
+      "best_suited_for": ["Travel", "Shopping"],
+      "apply_link": "https://www.americanexpress.com/in/credit-cards/"
+    },
+    {
+      "name": "HDFC INFINIA Metal Credit Card",
+      "issuer": "HDFC Bank",
+      "joining_fee": "₹12,500 + GST",
+      "annual_fee": "₹12,500 + GST",
+      "reward_type": "Reward Points",
+      "reward_rate": "Premium reward structure (details not specified)",
+      "eligibility_criteria": {
+        "minimum_income": "₹25,00,000 per annum",
+        "age": "21-60 years",
+        "employment": "Salaried/Self-employed"
+      },
+      "special_perks": [
+        "12,500 Reward Points welcome bonus",
+        "Complimentary Club Marriott membership",
+        "20% discounts on dining & stay in Asia-Pacific",
+        "Premium metal card design"
+      ],
+      "best_suited_for": ["Travel", "Dining", "Shopping"],
+      "apply_link": "https://www.hdfcbank.com/personal/pay/cards/credit-cards"
+    },
+    {
+      "name": "BOBCARD Tiara Credit Card",
+      "issuer": "Bank of Baroda",
+      "joining_fee": "₹2,499 + GST",
+      "annual_fee": "₹2,499 + GST",
+      "reward_type": "Reward Points",
+      "reward_rate": "15 points per ₹100 on travel/dining/international, 3 points per ₹100 on others",
+      "eligibility_criteria": {
+        "minimum_income": "₹5,00,000 per annum",
+        "age": "21-65 years",
+        "employment": "Salaried/Self-employed"
+      },
+      "special_perks": [
+        "Free Swiggy One (3 months), FitPass Pro, Amazon Prime/Disney Hotstar",
+        "Unlimited domestic lounge access on ₹40,000 quarterly spend",
+        "Up to ₹250 off on BookMyShow",
+        "1 RP = ₹0.25 for cashback"
+      ],
+      "best_suited_for": ["Travel", "Shopping", "Food"],
+      "apply_link": "https://www.bankofbaroda.in/personal-banking/digital-products/cards/credit-cards"
+    },
+    {
+      "name": "MakeMyTrip ICICI Bank Credit Card",
+      "issuer": "ICICI Bank",
+      "joining_fee": "₹999 + GST",
+      "annual_fee": "₹999 + GST",
+      "reward_type": "Reward Points (myCash)",
+      "reward_rate": "6 myCash per ₹200 on hotels, 3 myCash per ₹200 on flights/bus/cab, 1 myCash per ₹200 on others",
+      "eligibility_criteria": {
+        "minimum_income": "₹4,00,000 per annum",
+        "age": "21-60 years",
+        "employment": "Salaried/Self-employed"
+      },
+      "special_perks": [
+        "₹1,000 MMT voucher & MMTBLACK Gold membership",
+        "BOGO movie tickets (twice/month)",
+        "8 domestic & 1 international lounge access per year",
+        "1 myCash = ₹1"
+      ],
+      "best_suited_for": ["Travel"],
+      "apply_link": "https://www.icicibank.com/personal-banking/cards/credit-card"
+    },
+    {
+      "name": "HSBC Live+ Credit Card",
+      "issuer": "HSBC Bank",
+      "joining_fee": "₹999 + GST",
+      "annual_fee": "₹999 + GST",
+      "reward_type": "Cashback",
+      "reward_rate": "10% on dining/food/grocery, 1.5% on all other eligible spends",
+      "eligibility_criteria": {
+        "minimum_income": "₹6,00,000 per annum",
+        "age": "21-60 years",
+        "employment": "Salaried/Self-employed"
+      },
+      "special_perks": [
+        "₹1,000 cashback on spending ₹20,000 in first 30 days",
+        "Buy 2 Get 1 Free movies on Saturdays",
+        "Up to 15% discount at 1,000+ restaurants",
+        "4 complimentary domestic lounge access per year",
+        "₹3,00,000 card misuse insurance"
+      ],
+      "best_suited_for": ["Shopping", "Food"],
+      "apply_link": "https://www.hsbc.co.in/credit-cards/"
+    }
+  ]
+}
