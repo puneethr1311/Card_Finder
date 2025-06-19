@@ -25,7 +25,7 @@ Card Finder is a modern web application designed to help users discover and comp
 
 ## 🚀 Live Demo
 
-Experience Card Finder live: **[YOUR_VERCEL_LINK_HERE](https://card-finder-k5y61fze7-puneethr1311s-projects.vercel.app/)**
+Experience Card Finder live: **[https://card-finder-k5y61fze7-puneethr1311s-projects.vercel.app/](https://card-finder-k5y61fze7-puneethr1311s-projects.vercel.app/)**
 
 ## 🛠️ Technology Stack
 
