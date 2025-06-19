@@ -1,7 +1,9 @@
 # Card Finder - Find Your Perfect Card 💳
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://card-finder-k5y61fze7-puneethr1311s-projects.vercel.app/)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://card-finder-k5y61fze7-puneethr1311s-projects.vercel.app/)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](card-finder.vercel.app
+)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](card-finder.vercel.app
+)
 
 > **Find the perfect credit card tailored to your needs with our comprehensive comparison tool and AI-powered recommendations.**
 
@@ -25,7 +27,9 @@ Card Finder is a modern web application designed to help users discover and comp
 
 ## 🚀 Live Demo
 
-Experience Card Finder live: **[https://card-finder-k5y61fze7-puneethr1311s-projects.vercel.app/](https://card-finder-k5y61fze7-puneethr1311s-projects.vercel.app/)**
+Experience Card Finder live: **[card-finder.vercel.app
+](card-finder.vercel.app
+)**
 
 ## 🛠️ Technology Stack
 
