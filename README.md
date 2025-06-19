@@ -9,6 +9,20 @@
 
 Card Finder is a modern web application designed to help users discover and compare credit cards that best match their financial needs and lifestyle preferences. Whether you want to browse through detailed card information or get personalized recommendations through our AI chat system, Card Finder makes the decision process simple and informed.
 
+## 🖼️ Screenshots
+
+### 🔹 Home Page
+<img src="/home_page.png" alt="Home Page" width="800"/>
+
+---
+
+### 🔹 Chat Page (AI Recommendation)
+<img src="/chat_page.png" alt="Chat Page" width="800"/>
+
+---
+
+### 🔹 Cards Listing Page
+<img src="/cards_page.png" alt="Cards Page" width="800"/>
 ## ✨ Features
 
 ### 📊 **All Cards Comparison**
