@@ -83,15 +83,4 @@ This project is deployed on **Vercel** for optimal performance and reliability.
 
 
 
-## 📋 Features Roadmap
-
-- [ ] Advanced filtering options
-- [ ] User accounts and saved comparisons
-- [ ] More detailed AI questionnaire
-- [ ] Card application tracking
-- [ ] Mobile app version
-
-
-
-
 *Making credit card selection simple, smart, and personalized.*
